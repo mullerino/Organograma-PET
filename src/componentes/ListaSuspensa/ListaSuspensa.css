@@ -1,0 +1,20 @@
+.Campo{
+    margin: 24px 0;
+}
+
+.Campo label{
+    display: block;
+    font-weight: 600;
+    font-size: 19px;
+    margin-bottom: 8px;
+}
+
+.Campo select{
+    padding: 24px;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 20px;
+    box-sizing: border-box;
+}

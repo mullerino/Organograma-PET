@@ -1,0 +1,18 @@
+.projeto{
+    text-align: center;
+    padding: 32px;
+}
+
+.projeto h3{
+    font-size: 32px;
+    border-bottom: 4px solid #82CFFA;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.projeto-time{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 32px;
+    justify-content: space-around;
+}
